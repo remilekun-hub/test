@@ -15,7 +15,7 @@
 		}
 	},
 	"lint-staged": {
-		"*.{js, ts, jsx, tsx}": [
+		"*.{js, jsx, ts, tsx}": [
 			"eslint --fix --config eslint.config.mjs"
 		]
 	},
